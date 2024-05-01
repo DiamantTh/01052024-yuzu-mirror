@@ -32,7 +32,7 @@ For a full list of games yuzu supports, please visit our [Compatibility page](ht
 
 * __Windows__: [Windows Build](https://web.archive.org/web/20240304183509/https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
   
-* __Linux__: [Linux Build(https://web.archive.org/web/20240304190326/https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
+* __Linux__: [Linux Build](https://web.archive.org/web/20240304190326/https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
 
 
 ## License
